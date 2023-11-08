@@ -10,6 +10,16 @@ Aquí se utilizó: "Genera un código web con estilos CSS. Deberá ser de pelíc
 
 Le pedí a las IAs: "Genera un código web que sea un portafolio con todo lo necesario: categorías, temas, un buen fondo de color y estilos para que no se vea tan feo."
 
+## Cuáles inteligencias artificiales se usaron
+
+[ChatGPT](https://chat.openai.com/)
+[Bard AI](https://bard.google.com/)
+[Bing AI](https://www.bing.com/?/ai)
+[Monica AI](https://monica.im/)
+[Sonic AI](https://writesonic.com/chat)
+[You AI](https://you.com/)
+
+
 ### Esto es una prueba.
 
 Esto se hizo para evaluar el potencial de algunas Inteligencias Artificiales. No busco decir que una es mejor que la otra, pero en algunos casos, es así.
